@@ -4,9 +4,8 @@ title: TABASCO KIMCHI
 author: tabasco-kimchi
 email: baekchul1@aol.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  tabasco-kimchi. A promising future developer.
+  Bloging for daily work about learning programming things.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -17,8 +16,8 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: @tabascokimchi
-    github:  https://github.com/tabasco-kimchi
+    twitter: tabascokimchi
+    github: tabasco-kimchi
     rss: rss
     # dribbble: jekyll
     # facebook: jekyll
