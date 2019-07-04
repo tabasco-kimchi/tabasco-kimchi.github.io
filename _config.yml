@@ -17,8 +17,8 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: tabascokimchi
-    github:  tabasco-kimchi
+    twitter: @tabascokimchi
+    github:  https://github.com/tabasco-kimchi
     rss: rss
     # dribbble: jekyll
     # facebook: jekyll
