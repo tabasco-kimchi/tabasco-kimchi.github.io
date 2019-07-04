@@ -1,6 +1,6 @@
 
 remote_theme : jekyll/minima
-title: Your awesome title
+title: TABASCO KIMCHI
 author: tabasco-kimchi
 email: baekchul1@aol.com
 description: > # this means to ignore newlines until "show_excerpts:"
@@ -17,8 +17,8 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
-    github:  jekyll
+    twitter: tabascokimchi
+    github:  tabasco-kimchi
     rss: rss
     # dribbble: jekyll
     # facebook: jekyll
@@ -51,3 +51,6 @@ theme: minima
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+ 
+ url : "https://tabasco-kimchi.github.io"
+ baseurl : ""
